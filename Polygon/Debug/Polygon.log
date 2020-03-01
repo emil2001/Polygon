@@ -1,0 +1,3 @@
+﻿  Polygon.cpp
+E:\Emil\Programming\Polygon\Polygon\Polygon.cpp(15,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Polygon.vcxproj -> E:\Emil\Programming\Polygon\Debug\Polygon.exe
